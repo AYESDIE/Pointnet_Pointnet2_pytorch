@@ -4,6 +4,7 @@ This repo is implementation for [PointNet](http://openaccess.thecvf.com/content_
 
 ## Update
 **2024/12/04:**
+
 (1) Download it with `pip install git+https://github.com/AYESDIE/Pointnet_Pointnet2_pytorch.git`
 
 **2021/03/27:** 
